@@ -1,6 +1,6 @@
 """Quantix - Fast and intuitive backtesting for Python."""
 
-__version__ = "0.1.0"
+__version__ = "0.2.0"
 
 # Core imports - will be implemented soon
 from quantix.core.backtest import backtest

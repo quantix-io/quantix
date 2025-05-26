@@ -9,7 +9,7 @@
 
 **Fast and intuitive backtesting for Python**
 
-[Installation](#installation) • [Quick Start](#quick-start) • [Documentation](https://quantix.dev) • [Community](https://discord.gg/quantix)
+[Installation](#installation) • [Quick Start](#quick-start) • [Documentation](#documentation) • [Community](https://discord.gg/quantix-trading)
 
 </div>
 
@@ -127,9 +127,9 @@ poetry run ruff format .
 ## 💬 Community
 
 - 🌟 [Star the repo](https://github.com/quantix-io/quantix) to support the project
-- 💬 [Join our Discord](https://discord.gg/quantix) for discussions
+- 💬 [Join our Discord](https://discord.gg/quantix-trading) for discussions
 - 🐛 [Report issues](https://github.com/quantix-io/quantix/issues)
-- 📧 [Subscribe to updates](https://quantix.dev)
+- 📧 [Subscribe to updates](https://github.com/quantix-io/quantix)
 
 ## 📄 License
 
